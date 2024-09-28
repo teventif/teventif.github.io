@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://teventif.github.io/sitemap.teventif.gz
+Sitemap: https://teventif.github.io/app/sitemap.teventif.gz
+Sitemap: https://teventif.github.io/assets/sitemap.teventif.gz
+Sitemap: https://teventif.github.io/css/sitemap.teventif.gz
+Sitemap: https://teventif.github.io/data/sitemap.teventif.gz
+Sitemap: https://teventif.github.io/includes/sitemap.teventif.gz
+Sitemap: https://teventif.github.io/item/sitemap.teventif.gz
+Sitemap: https://teventif.github.io/src/sitemap.teventif.gz
